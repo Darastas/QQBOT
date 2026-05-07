@@ -135,3 +135,4 @@ export default {
 - First launch requires QR scan; subsequent launches auto-login
 - Dashboard is local-only (localhost:3456)
 - Engine stdout/stderr appears in both main terminal and monitor terminal
+"# QQBOT" 
