@@ -43,9 +43,8 @@ Subsequent launches auto-login (no QR scan needed).
 |---|---|
 | `#早上好` | Fixed reply |
 | `#你是谁` | Fixed reply |
-| `#roll` | Random number |
-| `#胡桃` | Random image from local folder |
-| `#杨玉` | Random image from local folder |
+| `#随机数字` | Random number |
+| `#自定义文件夹` | Random image from local folder |
 | `#天气 广州` | Weather query (AMap API) |
 
 New commands can be added via the dashboard Commands page.
@@ -82,8 +81,8 @@ QQBotFinal/
 ├── NapCat/
 │   └── QQ/NapCat.*.Shell/  NTQQ engine (NapCat Shell)
 │
-├── 杨语/                   Image pool for random_img_YangYu plugin
-├── 胡桃/                   Image pool for random_img_HuTao plugin
+├── 自定义文件夹/                   Image pool for 自定义文件夹 plugin
+├
 │
 └── logs/                   Log files (generated at runtime)
 ```
