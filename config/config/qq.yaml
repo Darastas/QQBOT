@@ -1,6 +1,6 @@
 # QQ账号
-qq: 2309963091
+qq: 
 # 密码，为空则用扫码登录
-pwd: '2006504ok'
+pwd: ''
 # 1:安卓手机、 2:aPad 、 3:安卓手表、 4:MacOS 、 5:iPad 、 6:Tim
 platform: 4
