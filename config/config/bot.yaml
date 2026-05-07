@@ -1,0 +1,18 @@
+log_level: debug
+ignore_self: true
+resend: false
+sendmsg_error: true
+restart_port: 27881
+ffmpeg_path:
+ffprobe_path:
+chromium_path:
+puppeteer_ws:
+puppeteer_timeout:
+proxyAddress:
+online_msg: true
+online_msg_exp: 86400
+skip_login: false
+serial_load: false
+
+napcat_http: http://127.0.0.1:3000
+napcat_ws: ws://127.0.0.1:3001

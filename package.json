@@ -1,0 +1,25 @@
+{
+  "name": "qq-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "app": "node .",
+    "dashboard": "node ."
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "chokidar": "^4.0.3",
+    "icqq": "^0.6.6",
+    "log4js": "^6.9.1",
+    "oicq": "2.3.1",
+    "redis": "^4.7.1",
+    "ws": "^8.20.0",
+    "yaml": "^2.8.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "log4js"
+    ]
+  }
+}
